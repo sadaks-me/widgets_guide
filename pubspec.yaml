@@ -1,0 +1,42 @@
+name: widgets_guide
+description: A Flutter widgets guide application.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+
+  http: ^0.12.0+2
+
+  stack:
+    git:
+      url: git://github.com/sad1996/flutter_sidekick.git
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  fonts:
+
+  - family: GoogleSans
+    fonts:
+    - asset: assets/fonts/GoogleSans-Regular.ttf
+
+    - asset: assets/fonts/GoogleSans-Medium.ttf
+      weight: 400
+
+    - asset: assets/fonts/GoogleSans-Bold.ttf
+      weight: 700
+
+    - asset: assets/fonts/GoogleSans-Italic.ttf
+      style: italic
