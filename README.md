@@ -6,6 +6,12 @@ A Flutter widgets guide application.
 
 Android & iOS.
 
+## Screen
+
+<p>
+	<img src="https://github.com/sad1996/widgets_guide/blob/master/screenrecord/widgets_guide.gif?raw=true" width="250" height="443"/>
+</p>
+
 ## Plugins Used
 
 flutter_sidekick, flutter_youtube & http.
