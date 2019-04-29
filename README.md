@@ -24,10 +24,6 @@ flutter_sidekick, flutter_youtube & http.
 
 GoogleSans
 
-## Url included
-
-'https://bit.ly/2CZGCgM'
-
 ## Connectivity
 
 App works only with the internet connection.
