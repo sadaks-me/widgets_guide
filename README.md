@@ -12,7 +12,7 @@ Android & iOS.
 	<img src="https://github.com/sad1996/widgets_guide/blob/master/screenrecord/widgets_guide.gif?raw=true" width="250" height="443"/>
 </p>
 
-## Plugins Used
+## Packages Used
 
 flutter_sidekick, flutter_youtube & http.
 
